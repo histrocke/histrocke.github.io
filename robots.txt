@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://histrocke.github.io/sitemap
+Sitemap: https://histrocke.github.io/app/sitemap
+Sitemap: https://histrocke.github.io/assets/sitemap
+Sitemap: https://histrocke.github.io/css/sitemap
+Sitemap: https://histrocke.github.io/includes/sitemap
+Sitemap: https://histrocke.github.io/item/sitemap
+Sitemap: https://histrocke.github.io/src/sitemap
